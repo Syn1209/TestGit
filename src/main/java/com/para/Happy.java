@@ -1,6 +1,6 @@
 package com.para;
-/**   @author  ×÷Õß E-mail:  
- *    @date ´´½¨Ê±¼ä£º2019Äê1ÔÂ6ÈÕ ÏÂÎç5:24:54
+/**   @author  ï¿½ï¿½ï¿½ï¿½ E-mail:  
+ *    @date ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ä£º2019ï¿½ï¿½1ï¿½ï¿½6ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½5:24:54
  *    @version 1.0 
  *    @parameter  
  *    @since  
@@ -8,7 +8,7 @@ package com.para;
 class Happy {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("left...");
 
 	}
 
